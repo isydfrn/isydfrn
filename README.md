@@ -24,7 +24,7 @@ In Progress:
 |-----------------------------------------------|----------------------------|
 | Cryptocurrency | <a href="https://google.com">Cryptocurrency Internal Audit</a>|
 | Business Continuity Management | <a href="https://google.com">Business Continuity Management Review</a>|
-| Data Privacy | <a href="https://google.com">Data Privacy Framework Review</a>|
+| Data Privacy | <a href="https://github.com/isydfrn/Data-Privacy-Framework-Review/blob/main/README.md">Data Privacy Framework Review</a>|
 | NIST 2.0 Cybersecurity Framework | <a href="https://google.com">Cyber Maturity Assessment with NIST 2.0 Cybersecurity Framework</a>|
 | Outsourced Service Provider's Audit Report (OSPAR) Compliance | <a href="https://google.com">OSPAR Audit</a>|
 | Cloud | <a href="https://google.com">Cyber Maturity Assessment with CSA Cloud Controls Matrix</a>|
